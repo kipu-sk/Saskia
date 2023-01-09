@@ -16,4 +16,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyVersion(Vsix.Version)]
 [assembly: AssemblyFileVersion(Vsix.Version)]
 
-[assembly: AssemblyInformationalVersion("2023.1.5.20")]
+[assembly: AssemblyInformationalVersion("2023.1.9.21")]
